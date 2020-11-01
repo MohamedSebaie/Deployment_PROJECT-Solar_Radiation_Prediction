@@ -2,8 +2,7 @@
 ## The `Web Application` I Created found in  <a href="https://radiation-prediction.herokuapp.com/" target="_blank">`This Link`</a>.
 ### The Data used here can be found through  <a href="https://www.kaggle.com/dronio/SolarEnergy#" target="_blank">`This Link`</a> on Kaggle Website.
 -----------------------------------------------
-
-## <font color='green'>Description of This File</font> 
+## Description of This File
 -----------------------------------------------
 
 ### The dataset contains such columns as: `wind direction`, `wind speed`, `humidity` and `temperature`. 
@@ -13,8 +12,7 @@
 
 ## `Just imagine that you've got solar energy batteries and you want to know will it be reasonable to use them in future`.
 -----------------------------------------------
-
-##  <font color='green'>About This File</font>
+##  About This File
 -----------------------------------------------
 
 #### These datasets are meteorological data from the `HI-SEAS weather station` from `four months` (September through December 2016) between Mission IV and Mission V.
@@ -28,7 +26,7 @@
 - The numeric data, if any (may be an empty string)
 - The text data, if any (may be an empty string)
 -----------------------------------------------
-### <font color='red'>The units of each dataset are</font>:
+### The units of each dataset are:
 -----------------------------------------------
 
 - `Solar radiation`: watts per meter^2
